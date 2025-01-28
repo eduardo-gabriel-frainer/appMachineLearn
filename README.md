@@ -54,15 +54,23 @@ Ao executar o código, o Streamlit automaticamente cria uma aplicação web loca
 ## Para rodar a Aplicação
 
 1. Instalar as dependências: Primeiro, instale as bibliotecas necessárias com o seguinte comando no terminal:
-* pip install streamlit scikit-learn pandas
+   * pip install streamlit scikit-learn pandas
+
+<br>
 
 2. Fazer o Dowload de todo o Código, juntamente com o Arquivo CSV com os dados
 
-3. Rodar o serviço Stremlit
-* streamlit run previsao_pizza.py
+<br>
 
-* 4 Se a página Web nao se abrir automaticamente acesse o serviço com:
-* geralmente http://localhost:8501
+3. Rodar o serviço Stremlit
+   * streamlit run previsao_pizza.py
+
+<br>
+
+4 Se a página Web nao se abrir automaticamente acesse o serviço com:
+   * geralmente http://localhost:8501
+
+<hr>
    
 
 
