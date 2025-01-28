@@ -17,6 +17,8 @@ A fórmula seria:
 <br>
 VALOR DA PIZZA = 5 x (DIÂMETRO/2)
 
+<hr>
+
 ## Fotos do Sistema
 
 ![image](https://github.com/user-attachments/assets/b9c6b63c-5df3-48bc-9179-096787d81fb4)
@@ -44,10 +46,24 @@ O código faz uma previsão do preço de uma pizza com diâmetro de 50 cm, retor
 Esse bloco de código é reposável por criar uma interface gráfica utilizando a dependência do StremLit
 <hr>
 
-![image](https://github.com/user-attachments/assets/b8664803-bdae-4849-8c19-617c1189a17b)
+![image](https://github.com/user-attachments/assets/f6c7d14f-78e2-4c46-9398-1c94074b0acf)
 <br>
 Ao executar o código, o Streamlit automaticamente cria uma aplicação web local, que pode ser acessada no navegador
 <hr>
+
+## Para rodar a Aplicação
+
+1. Instalar as dependências: Primeiro, instale as bibliotecas necessárias com o seguinte comando no terminal:
+* pip install streamlit scikit-learn pandas
+
+2. Fazer o Dowload de todo o Código, juntamente com o Arquivo CSV com os dados
+
+3. Rodar o serviço Stremlit
+* streamlit run previsao_pizza.py
+
+* 4 Se a página Web nao se abrir automaticamente acesse o serviço com:
+* geralmente http://localhost:8501
+   
 
 
 
