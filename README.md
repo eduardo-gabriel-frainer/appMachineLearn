@@ -39,6 +39,17 @@ O treinamento acontece aqui, o código treina um modelo de regressão linear par
 O código faz uma previsão do preço de uma pizza com diâmetro de 50 cm, retornando o valor estimado.
 <hr>
 
+![image](https://github.com/user-attachments/assets/0bc4c8be-3156-4159-82ba-593b3867667d)
+<br>
+Esse bloco de código é reposável por criar uma interface gráfica utilizando a dependência do StremLit
+<hr>
+
+![image](https://github.com/user-attachments/assets/b8664803-bdae-4849-8c19-617c1189a17b)
+<br>
+Ao executar o código, o Streamlit automaticamente cria uma aplicação web local, que pode ser acessada no navegador
+<hr>
+
+
 
 
 
