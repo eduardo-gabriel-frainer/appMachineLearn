@@ -51,7 +51,7 @@ Esse bloco de código é reposável por criar uma interface gráfica utilizando 
 Ao executar o código, o Streamlit automaticamente cria uma aplicação web local, que pode ser acessada no navegador
 <hr>
 
-## Para rodar a Aplicação
+## Para rodar a Aplicação (Tanto no Terminal VScode, CMD ou PoweShell)
 
 1. Instalar as dependências: Primeiro, instale as bibliotecas necessárias com o seguinte comando no terminal:
    * pip install streamlit scikit-learn pandas
