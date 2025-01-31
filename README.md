@@ -70,6 +70,10 @@ Ao executar o código, o Streamlit automaticamente cria uma aplicação web loca
 4 Se a página Web nao se abrir automaticamente acesse o serviço com:
    * geralmente http://localhost:8501
 
+Para rodar a aplicação, é necessário ter um ambiente de desenvolvimento configurado. Primeiramente, você precisa criar um ambiente virtual para o projeto. Isso garante que as dependências do projeto não interfiram com outras aplicações no seu sistema. O ambiente virtual pode ser criado usando a ferramenta adequada do Python.
+
+Após criar o ambiente virtual, é necessário ativá-lo para garantir que o sistema utilize as bibliotecas instaladas nesse ambiente específico. A ativação do ambiente varia dependendo do sistema operacional que você está utilizando.
+
 <hr>
    
 
